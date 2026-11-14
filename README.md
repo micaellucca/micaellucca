@@ -5,7 +5,7 @@ Sou estudante de **Cibersegurança** e estou aprendendo **Python**. Uso este Git
 ## 🔐 Sobre mim
 
 - 🎓 Faço faculdade de Cibersegurança
-- 🌱 Próximos passos: usar Python em automação e em ferramentas de segurança
+- 🐍 Foco em Python
 - 📍 Brasil
 
 ## 🛠️ Tecnologias
