@@ -18,5 +18,5 @@ Sou estudante de **Cibersegurança** e estou aprendendo **Python**. Uso este Git
 
 | Repositório | O que tem |
 |---|---|
-| [exercicios-python](https://github.com/micaellucca/exercicios-python) | Exercícios dos cursos de Python: lógica, listas, dicionários e funções |
-| [projetos-python](https://github.com/micaellucca/projetos-python) | Pequenos projetos de terminal: jogo de adivinhação e verificador de palíndromo |
+| [exercicios-python](https://github.com/micaellucca/exercicios-python) | Exercícios dos cursos de Python |
+| [projetos-python](https://github.com/micaellucca/projetos-python) | Pequenos projetos de terminal |
